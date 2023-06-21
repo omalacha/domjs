@@ -1,0 +1,11 @@
+.fondo-letra{
+    background-color: blue;
+    font-family:'Courier New', Courier, monospace;
+}
+.cumplido{
+background-color: green;
+}
+
+.fallido{
+background-color: red;
+}

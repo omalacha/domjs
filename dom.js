@@ -44,7 +44,7 @@ ps[1].appendChild(enlace);
 //let titulo2=document.createElement("h2");
 //let textoh2=document.createTextNode("Titulo desde JS");
 //titulo2.appendChild(textoh2);
-enlace.replaceWith(titulo2);
+//enlace.replaceWith(titulo2);
 //ps[1].insertAdjacentElement("afterend",enlace);
 //h1.insertAdjacentElement("beforebegin",enlace);
 //lenguaje js.com pagina para el DOM
